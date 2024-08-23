@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.6",
+    "next-swagger-doc": "^0.4.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.6"
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "swagger-ui-react": "^5.17.14"
   },
   "devDependencies": {
     "eslint": "^8",
